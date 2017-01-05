@@ -1,6 +1,6 @@
 # whoami
 Project to learn node js <br/>
-deployed on heroku: https://dashboard.heroku.com/apps/blooming-inlet-60170<br/>
+deployed on heroku: https://blooming-inlet-60170.herokuapp.com/<br/>
 <br/>
 returns data in format:<br/>
 {<br/>
